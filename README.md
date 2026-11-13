@@ -134,11 +134,11 @@ By combining multiple specialized AI agents, the platform provides an integrated
 
 ## Future Enhancements
 
-- Enhanced research paper question answering using Retrieval-Augmented Generation (RAG).
-- Customizable presentation templates and slide designs.
-- Advanced viva preparation with multiple difficulty levels.
-- Voice-based interaction and responses.
+- Customizable presentation templates and advanced slide designs.
+- Enhanced viva preparation with multiple difficulty levels and question categories.
+- Voice-based interaction and AI-powered responses.
 - Support for multiple research papers and comparative analysis.
+- Improved conversational capabilities and personalized learning assistance.
 
 ---
 
